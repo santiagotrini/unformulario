@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Un formulario y un boton</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body onclick="handleAnyClick(event)">
+  <h1>Un formulario y un botón</h1>
+  <!-- formulario -->
+  <form onsubmit="handleSubmit(event)">
+    <input type="text" name="nombre" placeholder="tu nombre">
+    <input type="submit" value="Enviar">
+  </form>
+  <!-- un boton  -->
+  <!-- atributos de onevent -->
+  <button onclick="handleClick(event)">0</button>
+</body>
+<script src="main.js"></script>
+</html>
