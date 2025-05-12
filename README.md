@@ -8,7 +8,7 @@
 
 # Formularios en HTML
 
-Estudiar de acá: (para leer en MDN)[https://developer.mozilla.org/es/docs/Learn_web_development/Extensions/Forms/Your_first_form]
+Estudiar de acá: [para leer en MDN](https://developer.mozilla.org/es/docs/Learn_web_development/Extensions/Forms/Your_first_form)
 
 
 # Estudiar todo el código, entra en la prueba!
